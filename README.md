@@ -1,4 +1,4 @@
-# Unemployment-Analysis
+# Unemployment-Analysis in india during covid 19
 
 This project analyzes the unemployment scenario before and after the lockdown using Python. It includes data analysis, visualizations, and insights derived from the provided dataset.
 
@@ -10,7 +10,16 @@ This project analyzes the unemployment scenario before and after the lockdown us
 .Deployed as a web application using Streamlit for a better user interface.
 
 # Dataset
-The dataset used for this analysis is available in the data.csv file. It contains information about unemployment rates, employment, labor participation, and other relevant factors for different states and regions.
+The provided dataset delves into the unemployment landscape across diverse states in India:
+
+* States: Various states constituting the Indian subcontinent.
+* Date: The specific dates of unemployment rate recordings.
+* Measuring Frequency: The regularity of measurement collection (Monthly).
+* Estimated Unemployment Rate (%): The proportion of unemployed individuals in each Indian state.
+* Estimated Employed Individuals: The tally of presently engaged individuals.
+* Estimated Labour Participation Rate (%): The percentage of the working-age populace (16-64 years) actively involved in the job market, including both employed individuals and those actively seeking jobs.
+
+This dataset serves as a valuable resource for comprehending the unemployment variations across India's states throughout the COVID-19 pandemic. By offering crucial insights, it illuminates the repercussions on unemployment rates, employment numbers, and labor participation proportions in distinct geographical regions across the nation. The analysis aims to provide insights into the pandemic's socio-economic effects on India's workforce and labor arena.
 
 # Project Structure
 The project repository has the following structure:
